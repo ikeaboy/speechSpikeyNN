@@ -1,6 +1,0 @@
-This is the folder where everything related to reading writing sound files should end up
-
-TODOS:
-Switch to proper cpp
-Create FileReader Class
-Agree on Interface for propagation to other classes

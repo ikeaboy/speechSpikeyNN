@@ -11,13 +11,13 @@
 int main (){
 
 
-/**
- * Just new SoundWrapper does nothing
- */
-SoundWrapper * soundWrap=new SoundWrapper();
 
+
+	/**
+	 * Just new SoundWrapper does nothing
+	 */
+	SoundWrapper * soundWrap=new SoundWrapper();
 	soundWrap->setFile("../soundsSamples/bip.wav");
-
 
 
 
